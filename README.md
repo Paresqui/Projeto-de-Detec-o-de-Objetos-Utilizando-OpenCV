@@ -12,3 +12,5 @@ O código utiliza a biblioteca OpenCV para o processamento das imagens, o algori
 ## Sobre o código:
 
 O código foi escrito no aplicativo web Jupyter Notebook, pois ele possui pré instalado as principais bibliotecas usadas no momento e dessa forma isso é muito útil para agilizar o processo de desenvolvimento. O Jupyter também permite organizar os códigos em células separadas, deixando o ambiente de desenvolvimento mais dinâmico e organizado, é possivel também  criar células de marcação, podendo adicionar títulos de diferentes tamanhos e textos dentro do seu arquivo de código.
+
+
