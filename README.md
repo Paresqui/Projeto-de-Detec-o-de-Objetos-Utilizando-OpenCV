@@ -1,1 +1,1 @@
-# -object_detection_OpenCV
+# object_detection_OpenCV
