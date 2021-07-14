@@ -1,3 +1,3 @@
 # Detectando objetos utilizando OpenCv
 
-![Screenshot](Capturard.png)
+![Screenshot](Capturarsd.png)
