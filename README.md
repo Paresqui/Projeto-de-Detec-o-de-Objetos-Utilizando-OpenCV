@@ -1,4 +1,4 @@
-# Detectando objetos utilizando OpenCv
+# Detectando objetos utilizando OpenCV
 
 ![Screenshot](Capturarsd.PNG)
 
