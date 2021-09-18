@@ -1,8 +1,7 @@
 # Projeto de detecção de objetos utilizando OpenCV
 
 
-
-
+## Contexto
 
 Este repositório contém um script em Python 3 utilizando a biblioteca OpenCV para reconhecer qualquer pessoa, veículo, objeto ou animais que aparecerem em um video ou imagem. O OpenCV é uma enorme biblioteca open source voltada para visão computacional, machine learning e processamento de imagens. Ao utilizar essa biblioteca, é possível usar imagens e videos para identificar objetos, rostos de pessoas e até mesmo a escrita.
 
