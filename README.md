@@ -1,4 +1,4 @@
-# Projeto de detecção de objetos utilizando OpenCV
+# Projeto de Detecção de objetos utilizando OpenCV
 
 
 ## Contexto
