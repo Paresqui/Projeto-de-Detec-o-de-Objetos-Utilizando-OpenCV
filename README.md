@@ -20,7 +20,8 @@ O código foi escrito no aplicativo web Jupyter Notebook, pois ele possui pré i
 
 ## Exemplos de Detecção:
 
+---
 <p align="left"><img src="./gif_02.gif" width="800" height="450"></p>
 <p align="left"><img src="./gif_01.gif" width="800" height="450"></p>
 
-![Screenshot](Capturarsd.PNG)
+
