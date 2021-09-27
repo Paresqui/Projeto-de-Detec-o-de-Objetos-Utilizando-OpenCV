@@ -1,4 +1,4 @@
-# Projeto de Detecção de Objetos Utilizando OpenCV
+# Detecção de Objetos utilizando OpenCV
 
 
 <p align="center"><img src="./opencv.png" width="500"></p>
